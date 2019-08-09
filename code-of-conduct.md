@@ -1,5 +1,5 @@
 # Code Of Conduct
-### Computer Science Students Community University of Ruhuna
+#### Computer Science Students Community University of Ruhuna, Sri Lanka
 
 
 As members of CSSC, we identify the value of our skills and the role it plays in the uplift the community standards in addition to how 
